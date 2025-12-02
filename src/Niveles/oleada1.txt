@@ -1,0 +1,5 @@
+DemonioRojo 128 80
+
+TrollAmarillo 352 208
+
+DemonioRojo 224 272

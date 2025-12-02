@@ -1,0 +1,120 @@
+Plataforma 800 16
+Plataforma 768 16
+SueloResbaladizo 736 16
+SueloResbaladizo 704 16
+SueloResbaladizo 672 16
+Plataforma 640 16
+Plataforma 608 16
+Plataforma 576 16
+Plataforma 544 16
+Plataforma 512 16
+Plataforma 480 16
+Plataforma 448 16
+Plataforma 416 16
+Plataforma 384 16
+Plataforma 352 16
+Plataforma 320 16
+Plataforma 288 16
+Plataforma 256 16
+Plataforma 224 16
+Plataforma 192 16
+Plataforma 160 16
+Plataforma 128 16
+Plataforma 96 16
+Plataforma 64 16
+Plataforma 32 16
+Plataforma 0 16
+
+Jugador 416 112
+
+Plataforma 96 80
+Plataforma 128 80
+Plataforma 160 80
+Plataforma 192 80
+Plataforma 224 80
+Plataforma 256 80
+
+Plataforma 512 80
+Plataforma 544 80
+Plataforma 576 80
+Plataforma 608 80
+Plataforma 640 80
+Plataforma 672 80
+
+DemonioRojo 128 80
+
+Plataforma 352 80
+Plataforma 384 80
+Plataforma 416 80
+
+PlataformaQuebradiza 64 176
+PlataformaQuebradiza 96 176
+
+Plataforma 320 144
+Plataforma 352 144
+Plataforma 384 144
+Plataforma 416 144
+Plataforma 448 144
+
+TrollAmarillo 352 208
+
+PlataformaQuebradiza 672 176
+PlataformaQuebradiza 704 176
+
+Plataforma 160 240
+Plataforma 192 240
+Plataforma 224 240
+Plataforma 256 240
+Escalera 288 240
+Plataforma 320 240
+Plataforma 352 240
+Plataforma 384 240
+Plataforma 416 240
+Plataforma 448 240
+Plataforma 480 240
+Plataforma 512 240
+Plataforma 544 240
+Plataforma 576 240
+Plataforma 608 240
+
+DemonioRojo 224 272
+
+Plataforma 224 304
+Plataforma 256 304
+Plataforma 288 304
+Plataforma 320 304
+
+Plataforma 448 304
+Plataforma 480 304
+Plataforma 512 304
+Plataforma 544 304
+
+Plataforma 64 336
+Plataforma 96 336
+Plataforma 128 336
+
+Plataforma 640 336
+Plataforma 672 336
+Plataforma 704 336
+
+Pared 128 366
+
+Pared 640 366
+
+Plataforma 128 400
+Plataforma 160 400
+Plataforma 192 400
+Plataforma 224 400
+Plataforma 256 400
+Plataforma 288 400
+Plataforma 320 400
+Plataforma 352 400
+Plataforma 384 400
+Plataforma 416 400
+Plataforma 448 400
+Plataforma 480 400
+Plataforma 512 400
+Plataforma 544 400
+Plataforma 576 400
+Plataforma 608 400
+Plataforma 640 400

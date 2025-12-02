@@ -1,0 +1,7 @@
+RanaDeFuego 64 112
+
+RanaDeFuego 544 208
+
+TrollAmarillo 640 336
+
+DemonioRojo 416 400

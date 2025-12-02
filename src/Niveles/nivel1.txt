@@ -1,0 +1,121 @@
+Plataforma 800 16
+Plataforma 768 16
+Plataforma 736 16
+Plataforma 704 16
+Plataforma 672 16
+Plataforma 640 16
+Plataforma 608 16
+Plataforma 576 16
+Plataforma 544 16
+Plataforma 512 16
+Plataforma 480 16
+Plataforma 448 16
+Plataforma 416 16
+Plataforma 384 16
+Plataforma 352 16
+Plataforma 320 16
+Plataforma 288 16
+Plataforma 256 16
+Plataforma 224 16
+Plataforma 192 16
+Plataforma 160 16
+Plataforma 128 16
+Plataforma 96 16
+Plataforma 64 16
+Plataforma 32 16
+Plataforma 0 16
+
+Jugador 416 80
+
+DemonioRojo 288 48
+
+ParedDestructible 32 109
+
+Plataforma 0 80 
+Plataforma 32 80
+Plataforma 64 80
+Plataforma 96 80
+Plataforma 128 80
+Plataforma 160 80
+Plataforma 192 80
+Plataforma 224 80
+Plataforma 256 80
+Plataforma 288 80
+
+Plataforma 480 80
+Plataforma 512 80
+Plataforma 544 80
+Plataforma 576 80
+Escalera 608 80
+Plataforma 640 80
+Plataforma 672 80
+Plataforma 704 80
+Plataforma 736 80
+Plataforma 768 80
+
+Plataforma 0 144
+Plataforma 32 144
+Plataforma 64 144
+Plataforma 96 144
+
+PlataformaQuebradiza 0 190
+
+Plataforma 224 144
+Plataforma 256 144
+Plataforma 288 144
+Plataforma 320 144
+Plataforma 352 144
+Plataforma 384 144
+Plataforma 416 144
+Plataforma 448 144
+Plataforma 480 144
+
+Pared 464 174
+
+Plataforma 448 208
+Plataforma 480 208
+Plataforma 512 208
+Plataforma 544 208
+Plataforma 576 208
+Plataforma 608 208
+Plataforma 640 208
+PlataformaQuebradiza 672 208
+PlataformaQuebradiza 704 208
+PlataformaQuebradiza 736 208
+PlataformaQuebradiza 768 208
+
+RanaDeFuego 704 240
+
+PlataformaMovil 96 208
+PlataformaMovil 128 208
+PlataformaMovil 160 208
+PlataformaMovil 192 208
+PlataformaMovil 224 208
+
+Plataforma 160 272
+Plataforma 192 272
+Plataforma 224 272
+Plataforma 256 272
+Plataforma 288 272
+Plataforma 320 272
+Plataforma 352 272
+Plataforma 384 272
+
+Plataforma 416 304
+Plataforma 448 304
+Plataforma 480 304
+
+Plataforma 512 336
+
+Plataforma 544 368
+
+Plataforma 576 400
+Plataforma 608 400
+Plataforma 640 400
+Plataforma 672 400
+Plataforma 704 400
+Plataforma 736 400
+Plataforma 768 400
+Plataforma 800 400
+
+TrollAmarillo 320 304
